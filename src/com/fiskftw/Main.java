@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Hello World yet again");
         Shape s = new Shape(6);
         s.setType(8);
+        System.out.println("Hello World yet yet again");
         // write your code here
     }
 
